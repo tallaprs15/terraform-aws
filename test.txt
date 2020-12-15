@@ -1,2 +1,3 @@
 Hello
 This is hotfix branch
+This is a file in remote repository
