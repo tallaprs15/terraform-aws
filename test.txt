@@ -1,3 +1,4 @@
 Hello
 This is hotfix branch
 This is a file in remote repository
+This is line 4
